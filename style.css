@@ -60,21 +60,24 @@
 .box1{
     display: flex;
     background-color: rgb(66, 171, 72);
-    max-width: 50rem;
+    
+    justify-content: center;
     
 }
 
-.tihi{
+.container4{
     display:flex;
     background-color: rgb(151, 198, 154);
+    max-width: 20rem;
+    max-height: 28rem;
     flex-wrap: wrap;
-    max-width: 40rem;
-    max-height: 7rem;
+    
+   
 }
 
-.tihi div{
+.container4 div{
     display:flex;
-    max-height: 60rem;
+    font-size: 2rem;
 }
 
 
